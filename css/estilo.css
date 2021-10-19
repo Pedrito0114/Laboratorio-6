@@ -1,0 +1,25 @@
+body{
+	background:url(../img/rojo.jpg);
+	background-attachment:fixed;
+	font-size:25px;
+    color:white;
+}
+
+a{
+color:white;
+}
+
+.cuadro{
+	display:block;
+	margin:20px 13% ;
+  border:5px solid black;
+	padding:10px;
+	background-color: rgba(0,0,0,.5);
+}
+
+.menu{
+  display: inline-block;
+  border:5px solid black;
+  margin:20px 12.8%;
+	background-color: rgba(0,0,0,.5);
+}
